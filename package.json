@@ -2,7 +2,7 @@
   "name": "portfolio-frontend",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Samadhan-DevOps.github.io/eks-modern-app",
+  "homepage": "https://Samadhan-DevOps.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
